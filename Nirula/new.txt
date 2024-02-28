@@ -1,0 +1,2 @@
+adding new content using append()adding new content using append()adding new content using append()
+this is day2 sessionthis is day2 sessionthis is day2 sessionthis is day2 session
